@@ -25,7 +25,7 @@ pip install beautifulsoup4
 ### How to use?
 * Make sure `shopee` app installed and logged in on smartphone
 * Install all dependency and software stack
-* Open `bot.py` and change `webdriver.Chrome('webdriver/chromedriver'` to `webdriver.Chrome('webdriver/chromedriver.exe'` if you use MS-Windows
+* Open `bot.py` and change `webdriver.Chrome('webdriver/chromedriver_87'` to `webdriver.Chrome('webdriver/chromedriver_87.exe'` if you use MS-Windows
 * Make sure all your things work properly
 * Go to `target.txt` and paste `product link`
 * Open `Bot.py` and adjust `waktumundur()` to flash sale time (reduce 1 to 5 second for load time)
