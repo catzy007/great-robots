@@ -34,4 +34,4 @@ pip install countdown-timer
 * After successful purchase, login with QR code
 * Then finish your payment
 
-> This code is build and modified from many sources!
+> This code is build and modified from many sources! dont claim it's only you made it!
