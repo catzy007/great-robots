@@ -15,11 +15,11 @@ chrome web driver 87.0.4280.88
 pip install pause
 pip install selenium
 pip install beautifulsoup4
-pip install countdown-timer
 ```
 
 #### Chrome + web Driver
 <https://chromedriver.chromium.org/downloads>
+
 <https://www.google.com/chrome/>
 
 ### How to use?
