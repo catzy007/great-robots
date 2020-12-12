@@ -30,7 +30,7 @@ class waktu():
         Minute  = 59
         Second  = 59
         dt = datetime.datetime(Year, Month, Day, Hour, Minute, Second, 000000)
-        print(" CHECKOUT TIME ")
+        print("> CHECKOUT TIME ")
         print(dt)
         pause.until(dt)
 
