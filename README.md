@@ -25,13 +25,13 @@ pip install beautifulsoup4
 ### How to use?
 * Install all dependency and software stack
 * Open `bot.py` and change `webdriver.Chrome('webdriver/chromedriver_87'` to `webdriver.Chrome('webdriver/chromedriver_87.exe'` if you use MS-Windows
-* Make sure all your things work properly
+* Make sure all things installed and work properly
 * Go to `target.txt` and paste `product link`
 * Open `Bot.py` and adjust `loginTime()` to login time (-60 to -120 second before checkout)
 * Then adjust `checkoutTime()` to checkout time (+- 1 to 5 second to load)
 * Run `Bot.py` and wait
 * After login window appear, proceed to login
-* Wait 120 second and purchase window wil appear
+* Wait few second and purchase window wil appear
 * Then finish your payment
 
 > This code is build and modified from many sources!
