@@ -24,7 +24,10 @@ pip install beautifulsoup4
 
 ### How to use?
 * Install all dependency and software stack
-* Open `bot.py` and change `webdriver.Chrome('webdriver/chromedriver_87'` to `webdriver.Chrome('webdriver/chromedriver_87.exe'` if you use MS-Windows
+* Download install and check your `Chrome version`
+* Download `Chrome Web driver` matched with your `Chrome version`
+* Move downloaded `Chrome Web Driver` to `webdriver`
+* Open `bot.py` and change `webdriver.Chrome('webdriver/chromedriver_XY'` to `webdriver.Chrome('webdriver/chromedriver_XY.exe'` if you use MS-Windows (change XY to your `Chrome Webdriver Version`)
 * Make sure all things installed and work properly
 * Go to `target.txt` and paste `product link`
 * Open `Bot.py` and adjust `loginTime()` to login time (-60 to -120 second before checkout)
